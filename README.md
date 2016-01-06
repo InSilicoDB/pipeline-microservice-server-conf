@@ -1,4 +1,4 @@
-# pipeline-microservice-server-conf
+# pipelines-microservice-server-conf
 
 ## Daemonizing the application
 
